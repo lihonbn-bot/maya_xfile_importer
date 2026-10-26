@@ -24,8 +24,7 @@ xfile_importer.py - Maya 2022 DirectX XFile (.x) 导入插件（单文件版）
   └── Section 6 ── Plugin entry
 
 安装：放到 Maya plug-ins 目录。
-使用：菜单栏 → DirectX → Import X File...
-      或 File → Import → "DirectX XFile Importer"
+使用：菜单栏 → Mudrunner X → Import X File...
 
 <img width="461" height="368" alt="image" src="https://github.com/user-attachments/assets/a06f2912-265c-401a-988b-af3906c80425" />
 
